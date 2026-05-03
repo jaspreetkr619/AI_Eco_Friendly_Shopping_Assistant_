@@ -1,0 +1,22 @@
+product_name,category,price,packaging_type,recyclable,organic,durability,carbon_impact,eco_score,eco_category
+Plastic Water Bottle,Beverages,20,plastic,no,no,low,high,25,Low
+Steel Water Bottle,Beverages,200,metal,yes,no,high,low,90,High
+Paper Bag,Shopping,10,paper,yes,no,low,low,75,Medium
+Cloth Bag,Shopping,50,cloth,yes,no,high,low,95,High
+Plastic Toothbrush,Personal Care,30,plastic,no,no,low,high,20,Low
+Bamboo Toothbrush,Personal Care,80,paper,yes,yes,medium,low,85,High
+Organic Vegetables,Grocery,150,no_packaging,yes,yes,low,low,88,High
+Packaged Snacks,Grocery,50,plastic,no,no,low,high,30,Low
+Glass Storage Container,Household,300,glass,yes,no,high,low,92,High
+Chemical Cleaner,Household,120,plastic,no,no,low,high,35,Low
+Eco-friendly Cleaner,Household,180,plastic,yes,yes,medium,low,80,Medium
+Fast Fashion T-shirt,Clothing,500,plastic,no,no,low,high,40,Low
+Organic Cotton T-shirt,Clothing,900,paper,yes,yes,medium,low,85,High
+Plastic Straw,Accessories,5,plastic,no,no,low,high,10,Low
+Steel Straw,Accessories,100,metal,yes,no,high,low,90,High
+Disposable Plates,Kitchen,60,plastic,no,no,low,high,30,Low
+Reusable Plates,Kitchen,250,metal,yes,no,high,low,88,High
+Milk (Regular),Grocery,60,plastic,no,no,low,medium,50,Medium
+Milk (Organic),Grocery,90,glass,yes,yes,low,low,85,High
+Laundry Detergent,Household,200,plastic,no,no,low,high,40,Low
+Plant-based Detergent,Household,300,plastic,yes,yes,medium,low,80,Medium

@@ -1,0 +1,211 @@
+product_name,category,price,packaging_type,recyclable,organic,durability,carbon_impact,eco_score,eco_category
+Plastic Water Bottle,Beverages,19,plastic,no,no,high,high,25,Low
+Steel Water Bottle,Beverages,194,metal,yes,no,high,high,90,High
+Paper Bag,Shopping,36,paper,yes,no,medium,high,75,Medium
+Cloth Bag,Shopping,62,cloth,yes,no,high,high,95,High
+Plastic Toothbrush,Personal Care,33,plastic,no,no,high,low,20,Low
+Bamboo Toothbrush,Personal Care,82,paper,yes,yes,low,medium,85,High
+Organic Vegetables,Grocery,165,no_packaging,yes,yes,medium,high,88,High
+Packaged Snacks,Grocery,80,plastic,no,no,low,high,30,Low
+Glass Storage Container,Household,308,glass,yes,no,high,medium,92,High
+Chemical Cleaner,Household,144,plastic,no,no,high,medium,35,Low
+Eco-friendly Cleaner,Household,203,plastic,yes,yes,medium,medium,80,Medium
+Fast Fashion T-shirt,Clothing,518,plastic,no,no,medium,medium,40,Low
+Organic Cotton T-shirt,Clothing,925,paper,yes,yes,low,medium,85,High
+Plastic Straw,Accessories,1,plastic,no,no,medium,medium,10,Low
+Steel Straw,Accessories,112,metal,yes,no,medium,medium,90,High
+Disposable Plates,Kitchen,87,plastic,no,no,medium,medium,30,Low
+Reusable Plates,Kitchen,244,metal,yes,no,high,low,88,High
+Milk (Regular),Grocery,62,plastic,no,no,high,high,50,Medium
+Milk (Organic),Grocery,106,glass,yes,yes,high,medium,85,High
+Laundry Detergent,Household,187,plastic,no,no,medium,medium,40,Low
+Plant-based Detergent,Household,319,plastic,yes,yes,high,low,80,Medium
+Plastic Water Bottle,Beverages,28,plastic,no,no,medium,medium,25,Low
+Steel Water Bottle,Beverages,214,metal,yes,no,high,medium,90,High
+Paper Bag,Shopping,1,paper,yes,no,low,low,75,Medium
+Cloth Bag,Shopping,63,cloth,yes,no,medium,high,95,High
+Plastic Toothbrush,Personal Care,26,plastic,no,no,high,medium,20,Low
+Bamboo Toothbrush,Personal Care,97,paper,yes,yes,medium,medium,85,High
+Organic Vegetables,Grocery,149,no_packaging,yes,yes,low,medium,88,High
+Packaged Snacks,Grocery,39,plastic,no,no,medium,low,30,Low
+Glass Storage Container,Household,305,glass,yes,no,medium,medium,92,High
+Chemical Cleaner,Household,131,plastic,no,no,medium,high,35,Low
+Eco-friendly Cleaner,Household,199,plastic,yes,yes,medium,medium,80,Medium
+Fast Fashion T-shirt,Clothing,529,plastic,no,no,high,low,40,Low
+Organic Cotton T-shirt,Clothing,890,paper,yes,yes,medium,high,85,High
+Plastic Straw,Accessories,28,plastic,no,no,low,low,10,Low
+Steel Straw,Accessories,92,metal,yes,no,high,high,90,High
+Disposable Plates,Kitchen,53,plastic,no,no,low,low,30,Low
+Reusable Plates,Kitchen,232,metal,yes,no,high,low,88,High
+Milk (Regular),Grocery,74,plastic,no,no,high,medium,50,Medium
+Milk (Organic),Grocery,119,glass,yes,yes,low,low,85,High
+Laundry Detergent,Household,193,plastic,no,no,high,medium,40,Low
+Plant-based Detergent,Household,290,plastic,yes,yes,high,high,80,Medium
+Plastic Water Bottle,Beverages,6,plastic,no,no,low,medium,25,Low
+Steel Water Bottle,Beverages,230,metal,yes,no,high,low,90,High
+Paper Bag,Shopping,21,paper,yes,no,high,medium,75,Medium
+Cloth Bag,Shopping,46,cloth,yes,no,medium,low,95,High
+Plastic Toothbrush,Personal Care,42,plastic,no,no,high,high,20,Low
+Bamboo Toothbrush,Personal Care,83,paper,yes,yes,low,high,85,High
+Organic Vegetables,Grocery,162,no_packaging,yes,yes,high,medium,88,High
+Packaged Snacks,Grocery,38,plastic,no,no,high,low,30,Low
+Glass Storage Container,Household,283,glass,yes,no,high,medium,92,High
+Chemical Cleaner,Household,121,plastic,no,no,high,high,35,Low
+Eco-friendly Cleaner,Household,165,plastic,yes,yes,high,high,80,Medium
+Fast Fashion T-shirt,Clothing,482,plastic,no,no,low,medium,40,Low
+Organic Cotton T-shirt,Clothing,920,paper,yes,yes,low,low,85,High
+Plastic Straw,Accessories,25,plastic,no,no,low,medium,10,Low
+Steel Straw,Accessories,104,metal,yes,no,medium,high,90,High
+Disposable Plates,Kitchen,85,plastic,no,no,high,low,30,Low
+Reusable Plates,Kitchen,252,metal,yes,no,medium,low,88,High
+Milk (Regular),Grocery,86,plastic,no,no,medium,medium,50,Medium
+Milk (Organic),Grocery,74,glass,yes,yes,low,high,85,High
+Laundry Detergent,Household,185,plastic,no,no,low,low,40,Low
+Plant-based Detergent,Household,325,plastic,yes,yes,medium,low,80,Medium
+Plastic Water Bottle,Beverages,1,plastic,no,no,medium,medium,25,Low
+Steel Water Bottle,Beverages,199,metal,yes,no,low,medium,90,High
+Paper Bag,Shopping,4,paper,yes,no,low,medium,75,Medium
+Cloth Bag,Shopping,73,cloth,yes,no,low,low,95,High
+Plastic Toothbrush,Personal Care,20,plastic,no,no,high,high,20,Low
+Bamboo Toothbrush,Personal Care,84,paper,yes,yes,high,medium,85,High
+Organic Vegetables,Grocery,149,no_packaging,yes,yes,low,low,88,High
+Packaged Snacks,Grocery,43,plastic,no,no,low,medium,30,Low
+Glass Storage Container,Household,299,glass,yes,no,medium,low,92,High
+Chemical Cleaner,Household,114,plastic,no,no,medium,medium,35,Low
+Eco-friendly Cleaner,Household,197,plastic,yes,yes,medium,medium,80,Medium
+Fast Fashion T-shirt,Clothing,493,plastic,no,no,medium,medium,40,Low
+Organic Cotton T-shirt,Clothing,926,paper,yes,yes,low,medium,85,High
+Plastic Straw,Accessories,35,plastic,no,no,medium,medium,10,Low
+Steel Straw,Accessories,117,metal,yes,no,high,low,90,High
+Disposable Plates,Kitchen,79,plastic,no,no,low,medium,30,Low
+Reusable Plates,Kitchen,262,metal,yes,no,low,low,88,High
+Milk (Regular),Grocery,67,plastic,no,no,low,high,50,Medium
+Milk (Organic),Grocery,76,glass,yes,yes,high,medium,85,High
+Laundry Detergent,Household,217,plastic,no,no,low,medium,40,Low
+Plant-based Detergent,Household,297,plastic,yes,yes,medium,low,80,Medium
+Plastic Water Bottle,Beverages,1,plastic,no,no,medium,medium,25,Low
+Steel Water Bottle,Beverages,208,metal,yes,no,low,low,90,High
+Paper Bag,Shopping,1,paper,yes,no,high,high,75,Medium
+Cloth Bag,Shopping,70,cloth,yes,no,low,medium,95,High
+Plastic Toothbrush,Personal Care,15,plastic,no,no,low,high,20,Low
+Bamboo Toothbrush,Personal Care,61,paper,yes,yes,low,high,85,High
+Organic Vegetables,Grocery,157,no_packaging,yes,yes,low,low,88,High
+Packaged Snacks,Grocery,52,plastic,no,no,low,low,30,Low
+Glass Storage Container,Household,301,glass,yes,no,low,high,92,High
+Chemical Cleaner,Household,100,plastic,no,no,low,low,35,Low
+Eco-friendly Cleaner,Household,186,plastic,yes,yes,high,medium,80,Medium
+Fast Fashion T-shirt,Clothing,481,plastic,no,no,high,medium,40,Low
+Organic Cotton T-shirt,Clothing,908,paper,yes,yes,medium,low,85,High
+Plastic Straw,Accessories,11,plastic,no,no,low,medium,10,Low
+Steel Straw,Accessories,103,metal,yes,no,low,high,90,High
+Disposable Plates,Kitchen,61,plastic,no,no,medium,medium,30,Low
+Reusable Plates,Kitchen,252,metal,yes,no,medium,low,88,High
+Milk (Regular),Grocery,41,plastic,no,no,medium,high,50,Medium
+Milk (Organic),Grocery,82,glass,yes,yes,medium,high,85,High
+Laundry Detergent,Household,215,plastic,no,no,high,medium,40,Low
+Plant-based Detergent,Household,286,plastic,yes,yes,medium,medium,80,Medium
+Plastic Water Bottle,Beverages,15,plastic,no,no,medium,low,25,Low
+Steel Water Bottle,Beverages,209,metal,yes,no,low,high,90,High
+Paper Bag,Shopping,29,paper,yes,no,low,low,75,Medium
+Cloth Bag,Shopping,78,cloth,yes,no,high,low,95,High
+Plastic Toothbrush,Personal Care,23,plastic,no,no,low,high,20,Low
+Bamboo Toothbrush,Personal Care,70,paper,yes,yes,low,high,85,High
+Organic Vegetables,Grocery,132,no_packaging,yes,yes,medium,high,88,High
+Packaged Snacks,Grocery,62,plastic,no,no,medium,low,30,Low
+Glass Storage Container,Household,316,glass,yes,no,high,low,92,High
+Chemical Cleaner,Household,123,plastic,no,no,low,low,35,Low
+Eco-friendly Cleaner,Household,195,plastic,yes,yes,low,high,80,Medium
+Fast Fashion T-shirt,Clothing,518,plastic,no,no,low,medium,40,Low
+Organic Cotton T-shirt,Clothing,898,paper,yes,yes,medium,medium,85,High
+Plastic Straw,Accessories,6,plastic,no,no,high,medium,10,Low
+Steel Straw,Accessories,107,metal,yes,no,medium,low,90,High
+Disposable Plates,Kitchen,65,plastic,no,no,high,medium,30,Low
+Reusable Plates,Kitchen,278,metal,yes,no,medium,high,88,High
+Milk (Regular),Grocery,42,plastic,no,no,medium,medium,50,Medium
+Milk (Organic),Grocery,76,glass,yes,yes,low,medium,85,High
+Laundry Detergent,Household,201,plastic,no,no,medium,low,40,Low
+Plant-based Detergent,Household,290,plastic,yes,yes,high,medium,80,Medium
+Plastic Water Bottle,Beverages,1,plastic,no,no,medium,medium,25,Low
+Steel Water Bottle,Beverages,202,metal,yes,no,medium,low,90,High
+Paper Bag,Shopping,1,paper,yes,no,high,low,75,Medium
+Cloth Bag,Shopping,44,cloth,yes,no,high,high,95,High
+Plastic Toothbrush,Personal Care,27,plastic,no,no,low,low,20,Low
+Bamboo Toothbrush,Personal Care,108,paper,yes,yes,high,low,85,High
+Organic Vegetables,Grocery,137,no_packaging,yes,yes,medium,low,88,High
+Packaged Snacks,Grocery,73,plastic,no,no,medium,high,30,Low
+Glass Storage Container,Household,298,glass,yes,no,high,low,92,High
+Chemical Cleaner,Household,107,plastic,no,no,high,low,35,Low
+Eco-friendly Cleaner,Household,199,plastic,yes,yes,low,low,80,Medium
+Fast Fashion T-shirt,Clothing,514,plastic,no,no,medium,high,40,Low
+Organic Cotton T-shirt,Clothing,921,paper,yes,yes,medium,medium,85,High
+Plastic Straw,Accessories,8,plastic,no,no,medium,high,10,Low
+Steel Straw,Accessories,91,metal,yes,no,medium,low,90,High
+Disposable Plates,Kitchen,43,plastic,no,no,low,medium,30,Low
+Reusable Plates,Kitchen,234,metal,yes,no,high,high,88,High
+Milk (Regular),Grocery,63,plastic,no,no,low,low,50,Medium
+Milk (Organic),Grocery,70,glass,yes,yes,medium,low,85,High
+Laundry Detergent,Household,186,plastic,no,no,low,high,40,Low
+Plant-based Detergent,Household,323,plastic,yes,yes,high,low,80,Medium
+Plastic Water Bottle,Beverages,1,plastic,no,no,low,low,25,Low
+Steel Water Bottle,Beverages,208,metal,yes,no,medium,low,90,High
+Paper Bag,Shopping,40,paper,yes,no,high,medium,75,Medium
+Cloth Bag,Shopping,46,cloth,yes,no,high,high,95,High
+Plastic Toothbrush,Personal Care,15,plastic,no,no,low,high,20,Low
+Bamboo Toothbrush,Personal Care,92,paper,yes,yes,medium,low,85,High
+Organic Vegetables,Grocery,151,no_packaging,yes,yes,high,low,88,High
+Packaged Snacks,Grocery,45,plastic,no,no,high,medium,30,Low
+Glass Storage Container,Household,280,glass,yes,no,low,low,92,High
+Chemical Cleaner,Household,121,plastic,no,no,high,medium,35,Low
+Eco-friendly Cleaner,Household,179,plastic,yes,yes,high,low,80,Medium
+Fast Fashion T-shirt,Clothing,512,plastic,no,no,medium,low,40,Low
+Organic Cotton T-shirt,Clothing,928,paper,yes,yes,high,high,85,High
+Plastic Straw,Accessories,1,plastic,no,no,low,high,10,Low
+Steel Straw,Accessories,115,metal,yes,no,low,high,90,High
+Disposable Plates,Kitchen,63,plastic,no,no,low,medium,30,Low
+Reusable Plates,Kitchen,267,metal,yes,no,low,low,88,High
+Milk (Regular),Grocery,88,plastic,no,no,medium,low,50,Medium
+Milk (Organic),Grocery,89,glass,yes,yes,high,medium,85,High
+Laundry Detergent,Household,200,plastic,no,no,high,high,40,Low
+Plant-based Detergent,Household,326,plastic,yes,yes,low,low,80,Medium
+Plastic Water Bottle,Beverages,31,plastic,no,no,low,low,25,Low
+Steel Water Bottle,Beverages,188,metal,yes,no,high,medium,90,High
+Paper Bag,Shopping,21,paper,yes,no,low,high,75,Medium
+Cloth Bag,Shopping,57,cloth,yes,no,low,high,95,High
+Plastic Toothbrush,Personal Care,57,plastic,no,no,low,high,20,Low
+Bamboo Toothbrush,Personal Care,104,paper,yes,yes,high,high,85,High
+Organic Vegetables,Grocery,160,no_packaging,yes,yes,low,medium,88,High
+Packaged Snacks,Grocery,72,plastic,no,no,high,low,30,Low
+Glass Storage Container,Household,294,glass,yes,no,high,medium,92,High
+Chemical Cleaner,Household,126,plastic,no,no,low,low,35,Low
+Eco-friendly Cleaner,Household,163,plastic,yes,yes,medium,medium,80,Medium
+Fast Fashion T-shirt,Clothing,522,plastic,no,no,medium,low,40,Low
+Organic Cotton T-shirt,Clothing,911,paper,yes,yes,low,high,85,High
+Plastic Straw,Accessories,11,plastic,no,no,medium,medium,10,Low
+Steel Straw,Accessories,124,metal,yes,no,high,low,90,High
+Disposable Plates,Kitchen,45,plastic,no,no,high,high,30,Low
+Reusable Plates,Kitchen,267,metal,yes,no,low,high,88,High
+Milk (Regular),Grocery,75,plastic,no,no,medium,low,50,Medium
+Milk (Organic),Grocery,70,glass,yes,yes,low,low,85,High
+Laundry Detergent,Household,205,plastic,no,no,high,high,40,Low
+Plant-based Detergent,Household,305,plastic,yes,yes,low,high,80,Medium
+Plastic Water Bottle,Beverages,6,plastic,no,no,low,medium,25,Low
+Steel Water Bottle,Beverages,230,metal,yes,no,medium,medium,90,High
+Paper Bag,Shopping,13,paper,yes,no,low,medium,75,Medium
+Cloth Bag,Shopping,44,cloth,yes,no,low,medium,95,High
+Plastic Toothbrush,Personal Care,18,plastic,no,no,low,medium,20,Low
+Bamboo Toothbrush,Personal Care,93,paper,yes,yes,medium,medium,85,High
+Organic Vegetables,Grocery,164,no_packaging,yes,yes,low,low,88,High
+Packaged Snacks,Grocery,58,plastic,no,no,high,medium,30,Low
+Glass Storage Container,Household,312,glass,yes,no,low,high,92,High
+Chemical Cleaner,Household,102,plastic,no,no,high,high,35,Low
+Eco-friendly Cleaner,Household,187,plastic,yes,yes,high,low,80,Medium
+Fast Fashion T-shirt,Clothing,498,plastic,no,no,low,high,40,Low
+Organic Cotton T-shirt,Clothing,913,paper,yes,yes,low,medium,85,High
+Plastic Straw,Accessories,1,plastic,no,no,medium,low,10,Low
+Steel Straw,Accessories,118,metal,yes,no,low,low,90,High
+Disposable Plates,Kitchen,88,plastic,no,no,low,high,30,Low
+Reusable Plates,Kitchen,246,metal,yes,no,medium,high,88,High
+Milk (Regular),Grocery,68,plastic,no,no,medium,high,50,Medium
+Milk (Organic),Grocery,120,glass,yes,yes,medium,low,85,High
+Laundry Detergent,Household,211,plastic,no,no,low,low,40,Low
+Plant-based Detergent,Household,294,plastic,yes,yes,high,low,80,Medium
